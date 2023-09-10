@@ -1,0 +1,202 @@
+.companyboxone {
+    margin-top: 1rem;
+    text-align: center;
+    background-image: url(/ASSERTS/IMAGE/tentson3.jpg);
+    padding: 15rem 5rem;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+
+    h1 {
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 50px;
+        color: white;
+
+    }
+
+    p {
+        font-size: 17px;
+        opacity: 0.8;
+        color: white;
+        margin-top: 1rem;
+        padding: 0rem 12rem;
+
+    }
+
+    i {
+        color: white;
+        font-size: 40px;
+    }
+}
+
+.companyboxtwo {
+
+    text-align: center;
+    background-image: url(/ASSERTS/IMAGE/tent2.18.jpg);
+    padding: 15rem 5rem;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+
+    h3 {
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 50px;
+        color: white;
+
+    }
+
+    p {
+        font-size: 17px;
+        opacity: 0.8;
+        color: white;
+        margin-top: 1rem;
+        padding: 0rem 12rem;
+
+    }
+
+    i {
+        color: white;
+        font-size: 40px;
+    }
+
+
+}
+
+.companyboxthree {
+
+    text-align: center;
+    background-image: url(/ASSERTS/IMAGE/tent5.jpg);
+    padding: 15rem 5rem;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+
+    h3 {
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 50px;
+        color: white;
+
+    }
+
+    p {
+        font-size: 17px;
+        opacity: 0.8;
+        color: white;
+        margin-top: 1rem;
+        padding: 0rem 12rem;
+
+    }
+
+    i {
+        color: white;
+        font-size: 40px;
+    }
+
+}
+
+.companyboxfour {
+    text-align: center;
+    background-image: url(/ASSERTS/IMAGE/tent8.jpg);
+    padding: 15rem 5rem;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+
+    h3 {
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 50px;
+        color: white;
+
+    }
+
+    p {
+        font-size: 17px;
+        opacity: 0.8;
+        color: white;
+        margin-top: 1rem;
+        padding: 0rem 12rem;
+
+    }
+
+    i {
+        color: white;
+        font-size: 40px;
+    }
+
+}
+
+.companyboxfive {
+    text-align: center;
+    background-image: url(/ASSERTS/IMAGE/tentson1.jpg);
+    padding: 15rem 5rem;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+
+    h3 {
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 50px;
+        color: white;
+
+    }
+
+    p {
+        font-size: 17px;
+        opacity: 0.8;
+        color: white;
+        margin-top: 1rem;
+        padding: 0rem 12rem;
+
+    }
+
+    i {
+        color: white;
+        font-size: 40px;
+    }
+
+
+}
+
+
+@media (min-width:400px) and (max-width: 576px) {
+
+    .companyboxone {
+        p {
+            font-size: 20px;
+            padding: 0rem 0rem;
+        }
+    }
+
+    .companyboxtwo {
+        p {
+            font-size: 20px;
+            padding: 0rem 0rem;
+        }
+    }
+
+    .companyboxthree {
+        p {
+            font-size: 20px;
+            padding: 0rem 0rem;
+        }
+    }
+
+    .companyboxfour {
+        p {
+            font-size: 20px;
+            padding: 0rem 0rem;
+        }
+    }
+
+
+    .companyboxfive {
+        p {
+            font-size: 20px;
+            padding: 0rem 0rem;
+        }
+    }
+
+
+
+
+}

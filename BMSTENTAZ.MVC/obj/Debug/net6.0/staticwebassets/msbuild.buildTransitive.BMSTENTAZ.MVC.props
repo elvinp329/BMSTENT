@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\BMSTENTAZ.MVC.props" />
+</Project>

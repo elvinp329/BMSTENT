@@ -1,0 +1,149 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ASP.net\\BMSTENTAZ\\BMSTENTAZ.MVC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BMSTENTAZ.MVC.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BMSTENTAZ.MVC.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ASP.net\\BMSTENTAZ\\BMSTENTAZ.MVC\\wwwroot\\CSS\\_adresscuryer.scss",
+      "PackagePath": "staticwebassets\\CSS\\_adresscuryer.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ASP.net\\BMSTENTAZ\\BMSTENTAZ.MVC\\wwwroot\\CSS\\_artisan.scss",
+      "PackagePath": "staticwebassets\\CSS\\_artisan.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ASP.net\\BMSTENTAZ\\BMSTENTAZ.MVC\\wwwroot\\CSS\\_company.scss",
+      "PackagePath": "staticwebassets\\CSS\\_company.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ASP.net\\BMSTENTAZ\\BMSTENTAZ.MVC\\wwwroot\\CSS\\_contact.scss",
+      "PackagePath": "staticwebassets\\CSS\\_contact.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ASP.net\\BMSTENTAZ\\BMSTENTAZ.MVC\\wwwroot\\CSS\\_equipment.scss",
+      "PackagePath": "staticwebassets\\CSS\\_equipment.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ASP.net\\BMSTENTAZ\\BMSTENTAZ.MVC\\wwwroot\\CSS\\_gallery.scss",
+      "PackagePath": "staticwebassets\\CSS\\_gallery.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ASP.net\\BMSTENTAZ\\BMSTENTAZ.MVC\\wwwroot\\CSS\\_service.scss",
+      "PackagePath": "staticwebassets\\CSS\\_service.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ASP.net\\BMSTENTAZ\\BMSTENTAZ.MVC\\wwwroot\\CSS\\_workforce.scss",
+      "PackagePath": "staticwebassets\\CSS\\_workforce.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ASP.net\\BMSTENTAZ\\BMSTENTAZ.MVC\\wwwroot\\CSS\\bootstrap.css",
+      "PackagePath": "staticwebassets\\CSS\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ASP.net\\BMSTENTAZ\\BMSTENTAZ.MVC\\wwwroot\\CSS\\style.css",
+      "PackagePath": "staticwebassets\\CSS\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ASP.net\\BMSTENTAZ\\BMSTENTAZ.MVC\\wwwroot\\CSS\\style.css.map",
+      "PackagePath": "staticwebassets\\CSS\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ASP.net\\BMSTENTAZ\\BMSTENTAZ.MVC\\wwwroot\\CSS\\style.scss",
+      "PackagePath": "staticwebassets\\CSS\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ASP.net\\BMSTENTAZ\\BMSTENTAZ.MVC\\wwwroot\\IMAGE\\Screenshot 2023-08-11 021018.png",
+      "PackagePath": "staticwebassets\\IMAGE\\Screenshot 2023-08-11 021018.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ASP.net\\BMSTENTAZ\\BMSTENTAZ.MVC\\wwwroot\\IMAGE\\image.ico",
+      "PackagePath": "staticwebassets\\IMAGE\\image.ico"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ASP.net\\BMSTENTAZ\\BMSTENTAZ.MVC\\wwwroot\\IMAGE\\tent1.jpg",
+      "PackagePath": "staticwebassets\\IMAGE\\tent1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ASP.net\\BMSTENTAZ\\BMSTENTAZ.MVC\\wwwroot\\IMAGE\\tent2.18.jpg",
+      "PackagePath": "staticwebassets\\IMAGE\\tent2.18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ASP.net\\BMSTENTAZ\\BMSTENTAZ.MVC\\wwwroot\\IMAGE\\tent3.jpg",
+      "PackagePath": "staticwebassets\\IMAGE\\tent3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ASP.net\\BMSTENTAZ\\BMSTENTAZ.MVC\\wwwroot\\IMAGE\\tent4.jpg",
+      "PackagePath": "staticwebassets\\IMAGE\\tent4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ASP.net\\BMSTENTAZ\\BMSTENTAZ.MVC\\wwwroot\\IMAGE\\tent5.jpg",
+      "PackagePath": "staticwebassets\\IMAGE\\tent5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ASP.net\\BMSTENTAZ\\BMSTENTAZ.MVC\\wwwroot\\IMAGE\\tent7.jpg",
+      "PackagePath": "staticwebassets\\IMAGE\\tent7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ASP.net\\BMSTENTAZ\\BMSTENTAZ.MVC\\wwwroot\\IMAGE\\tent8.jpg",
+      "PackagePath": "staticwebassets\\IMAGE\\tent8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ASP.net\\BMSTENTAZ\\BMSTENTAZ.MVC\\wwwroot\\IMAGE\\tentavadan.jpg",
+      "PackagePath": "staticwebassets\\IMAGE\\tentavadan.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ASP.net\\BMSTENTAZ\\BMSTENTAZ.MVC\\wwwroot\\IMAGE\\tentdasima.jpg",
+      "PackagePath": "staticwebassets\\IMAGE\\tentdasima.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ASP.net\\BMSTENTAZ\\BMSTENTAZ.MVC\\wwwroot\\IMAGE\\tentdasma.jpg",
+      "PackagePath": "staticwebassets\\IMAGE\\tentdasma.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ASP.net\\BMSTENTAZ\\BMSTENTAZ.MVC\\wwwroot\\IMAGE\\tentisci.jpg",
+      "PackagePath": "staticwebassets\\IMAGE\\tentisci.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ASP.net\\BMSTENTAZ\\BMSTENTAZ.MVC\\wwwroot\\IMAGE\\tentpesakar.jpg",
+      "PackagePath": "staticwebassets\\IMAGE\\tentpesakar.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ASP.net\\BMSTENTAZ\\BMSTENTAZ.MVC\\wwwroot\\IMAGE\\tentson.jpg",
+      "PackagePath": "staticwebassets\\IMAGE\\tentson.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ASP.net\\BMSTENTAZ\\BMSTENTAZ.MVC\\wwwroot\\IMAGE\\tentson1.jpg",
+      "PackagePath": "staticwebassets\\IMAGE\\tentson1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ASP.net\\BMSTENTAZ\\BMSTENTAZ.MVC\\wwwroot\\IMAGE\\tentson2.jpg",
+      "PackagePath": "staticwebassets\\IMAGE\\tentson2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ASP.net\\BMSTENTAZ\\BMSTENTAZ.MVC\\wwwroot\\IMAGE\\tentson3.jpg",
+      "PackagePath": "staticwebassets\\IMAGE\\tentson3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\ASP.net\\BMSTENTAZ\\BMSTENTAZ.MVC\\wwwroot\\JS\\app.js",
+      "PackagePath": "staticwebassets\\JS\\app.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.BMSTENTAZ.MVC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.BMSTENTAZ.MVC.props",
+      "PackagePath": "build\\BMSTENTAZ.MVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.BMSTENTAZ.MVC.props",
+      "PackagePath": "buildMultiTargeting\\BMSTENTAZ.MVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.BMSTENTAZ.MVC.props",
+      "PackagePath": "buildTransitive\\BMSTENTAZ.MVC.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

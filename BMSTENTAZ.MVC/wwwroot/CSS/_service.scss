@@ -1,0 +1,258 @@
+.serviceallbox {
+    margin-top: 1rem;
+    text-align: center;
+    background-image: url(/ASSERTS/IMAGE/tentson3.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 50vh;
+
+    h1 {
+
+        padding: 3rem 0rem;
+        font-size: 50px;
+        font-family: 'Times New Roman', Times, serif;
+        color: white;
+
+
+    }
+
+    a {
+
+        display: inline-block;
+        color: rgb(0, 98, 131);
+        font-size: 20px;
+        font-family: 'Times New Roman', Times, serif;
+        text-decoration: none;
+        padding: 1rem 4rem;
+        border-radius: 20px;
+        background-color: white;
+
+
+    }
+
+
+
+
+
+}
+
+.servis {
+    margin-top: 2rem;
+    text-align: center;
+
+
+    .serviceboxone {
+        opacity: 0.8;
+        border-radius: 3px;
+        background-image: url(/ASSERTS/IMAGE/tentdasima.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 40vh;
+        text-align: center;
+        box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.5);
+
+        i {
+            margin-top: 70px;
+
+            font-size: 40px;
+            color: #005CFF;
+
+        }
+
+        h3 {
+            color: white;
+            margin-top: 10px;
+            font-family: 'Times New Roman', Times, serif;
+
+
+        }
+
+
+        a {
+            display: inline-block;
+            margin-top: 0.5rem;
+            padding: 0.5rem 3rem;
+            background-color: #005CFF;
+            font-family: 'Times New Roman', Times, serif;
+            border-radius: 10px 10px;
+            text-decoration: none;
+            color: white;
+        }
+
+    }
+
+    .serviceboxtwo {
+        opacity: 0.8;
+        border-radius: 3px;
+        box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.5);
+        margin-bottom: 1rem;
+
+        background-image: url(/ASSERTS/IMAGE/tentisci.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 40vh;
+
+        h3 {
+
+            color: white;
+            margin-top: 10px;
+            font-family: 'Times New Roman', Times, serif;
+
+
+        }
+
+
+        i {
+            margin-top: 70px;
+            font-size: 30px;
+            color: #005CFF;
+        }
+
+        a {
+            display: inline-block;
+            margin-top: 0.5rem;
+            padding: 0.5rem 3rem;
+            background-color: #005CFF;
+            font-family: 'Times New Roman', Times, serif;
+            border-radius: 10px 10px;
+            text-decoration: none;
+            color: white;
+        }
+
+
+    }
+
+    .serviceboxthree {
+        opacity: 0.8;
+        border-radius: 3px;
+        box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.5);
+
+        background-image: url(/ASSERTS/IMAGE/tentavadan.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 40vh;
+
+        h3 {
+            color: white;
+            margin-top: 10px;
+            font-family: 'Times New Roman', Times, serif;
+
+        }
+
+
+        i {
+            margin-top: 70px;
+            font-size: 30px;
+            color: #005CFF;
+        }
+
+        a {
+            display: inline-block;
+            margin-top: 0.5rem;
+            padding: 0.5rem 3rem;
+            background-color: #005CFF;
+            font-family: 'Times New Roman', Times, serif;
+            border-radius: 10px 10px;
+            text-decoration: none;
+            color: white;
+        }
+    }
+
+    .serviceboxfour {
+        opacity: 0.8;
+        border-radius: 3px;
+        box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.5);
+        background-image: url(/ASSERTS/IMAGE/tentpesakar.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 40vh;
+
+        h3 {
+            color: white;
+            margin-top: 10px;
+            font-family: 'Times New Roman', Times, serif;
+
+        }
+
+
+        i {
+            margin-top: 70px;
+            font-size: 30px;
+            color: #005CFF;
+        }
+
+        a {
+            display: inline-block;
+            margin-top: 0.5rem;
+            padding: 0.5rem 3rem;
+            background-color: #005CFF;
+            font-family: 'Times New Roman', Times, serif;
+            border-radius: 10px 10px;
+            text-decoration: none;
+            color: white;
+        }
+    }
+
+}
+
+
+@media (min-width:400px) and (max-width: 576px) {
+    .serviceallbox h1 {
+        font-size: 40px;
+        opacity: 0.9;
+    }
+
+    .serviceallbox a {
+        font-size: 20px;
+        padding: 0.5rem 2.5rem;
+    }
+
+
+    .serviceboxone i {
+        font-size: 1000px;
+        display: block;
+        padding: 1rem 1rem;
+
+    }
+
+
+    .serviceboxtwo h1 {
+        font-size: 40px;
+        opacity: 0.9;
+    }
+
+    .serviceboxtwo a {
+        font-size: 20px;
+        padding: 0.5rem 2.5rem;
+    }
+
+
+    .serviceboxtwo i {
+        font-size: 1000px;
+        display: block;
+        padding: 1rem 1rem;
+
+    }
+
+    .serviceboxthree i {
+        font-size: 1000px;
+        display: block;
+        padding: 1rem 1rem;
+
+    }
+
+
+    .serviceboxfour i {
+        font-size: 1000px;
+        display: block;
+        padding: 1rem 1rem;
+
+    }
+
+
+    .spanline {
+        margin-bottom: 2rem;
+    }
+
+
+}
